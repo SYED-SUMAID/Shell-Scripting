@@ -69,7 +69,7 @@ done
 
 echo
 echo "===== PROGRAM COMPLETED ====="
-[Screenshot (602)(1).png]
+
 ```
 ## Conclusion
 
