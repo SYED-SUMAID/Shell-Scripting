@@ -69,11 +69,12 @@ done
 
 echo
 echo "===== PROGRAM COMPLETED ====="
+```
 ![alt text](<Screenshot (602)(1)-1-1.png>)
 ![alt text](<Screenshot (607)-2.png>)
 ![alt text](<Screenshot (608)-1.png>)
 ![alt text](<Screenshot (609)-1.png>)
-```
+
 ## Conclusion
 
 This lab provided a basic understanding of Linux Shell Scripting by implementing variables, user input, conditional statements, and loops. The use of if, elif, else, for, and while helped demonstrate decision-making and repetition in Bash.
