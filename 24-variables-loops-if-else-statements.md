@@ -69,13 +69,10 @@ done
 
 echo
 echo "===== PROGRAM COMPLETED ====="
-
-![Bash terminal displaying the variables section with Name: Sumaid, Age: 21, and Course: Shell Scripting. The screenshot shows a plain command-line environment used for this instructional lab.](<Screenshot (602)(1).png>)
-![Bash terminal displaying the IF / ELIF / ELSE section, where the user enters marks and the script displays a grade. The screenshot shows a plain command-line environment demonstrating conditional logic in an instructional setting.](<Screenshot (607).png>)
-![Bash terminal displaying the FOR LOOP results: Number: 1, Number: 2, Number: 3, Number: 4, and Number: 5. The screenshot shows repeated output in a plain command-line environment for this instructional lab.](<Screenshot (608).png>)
-![Bash terminal displaying the WHILE LOOP results: Count: 1, Count: 2, Count: 3, Count: 4, and Count: 5, followed by PROGRAM COMPLETED. The screenshot shows a plain command-line environment demonstrating repetition in an instructional setting.](<Screenshot (609).png>)
-
-```
-##Conclusion
+c:\Users\ddona\OneDrive\Pictures\Screenshots\Screenshot (602)(1).png
+c:\Users\ddona\OneDrive\Pictures\Screenshots\Screenshot (607).png
+c:\Users\ddona\OneDrive\Pictures\Screenshots\Screenshot (608).png
+c:\Users\ddona\OneDrive\Pictures\Screenshots\Screenshot (609).png
+## Conclusion
 
 This lab provided a basic understanding of Linux Shell Scripting by implementing variables, user input, conditional statements, and loops. The use of if, elif, else, for, and while helped demonstrate decision-making and repetition in Bash.
